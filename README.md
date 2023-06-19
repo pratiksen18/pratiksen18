@@ -1,7 +1,7 @@
 ### Hi there, I am Pratik 👋
-🌱 I’m currently learning React Js NodeJs
-👀 I’m interested in web developing.
-📫 How to reach me : mail(pratiksenprl@gmail.com)
+- 🌱 I’m currently learning React Js NodeJs
+- 👀 I’m interested in web developing.
+- 📫 How to reach me : mail(pratiksenprl@gmail.com)
 <!--
 **pratiksen18/pratiksen18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
